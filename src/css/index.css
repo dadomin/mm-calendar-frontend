@@ -20,3 +20,6 @@ button {
 .cal-date {
     margin: 0 30px;
 }
+.cal-date > p {
+    
+}
